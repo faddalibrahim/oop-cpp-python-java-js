@@ -1,14 +1,14 @@
-# Object-Oriented Programming
+## Content
 
-This is my personal brief guide to object-oriented programming. I explore and summarize the 4 pillars of oop and how they are implemented across the languages: javascript, python, c++ and java. Included are Practical examples and how they relate closely to the concepts.
+This is my personal brief and quick guide to object-oriented programming. I explore and summarize the 4 pillars of oop and how they are implemented across the languages: javascript, python, c++ and java. Included are practical examples and subtle differences in implementations across the languages.
 
-I also highlight the nuances among the languages
+This is not be a deep comprehensive guide, but a revision note. If you are a beginner, I will recommend following the links to the resources attached first.
 
-This may not be a full comprehensive guide, but a revision. If you are a beginner, I will recommend, following the links to the resources attached first. You can use this repo for revision and quick reference.
+## Description
 
-# Description
+There are 4 folders for each of the programming languages I am focusing on. Each folder contains the implementations and links to resources that helped me understand the concepts.
 
-There are 4 folders for each of the programming languages I am focusing on. Each folder contain the implementations and links to resources I used to help me understand the concepts.
+## Yet to add
 
-
-How to contribute.
+- design patterns
+- Go Programming Language
