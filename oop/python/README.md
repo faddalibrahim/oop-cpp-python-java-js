@@ -1,4 +1,5 @@
 # Links
+
 1. Introduction to Python : Google IT Automation Course
 2. [OOP in python - Traversy Media](https://www.youtube.com/watch?v=MikphENIrOo)
 
@@ -20,6 +21,21 @@ class Fruit:
 class Fruit:
     color = ""
     flavor = ""
+```
+
+> Access Modifiers
+
+\_protected (preceded by single underscore)
+still accessible and modifiable outside the class scope by any instance of the class
+
+\_\_private (preceded by double underscore)
+still accessible and modifiable via 'instance.\_Class\_\_privateValue'
+python only mangles the name
+
+```python
+class Fruit:
+    _color = ""
+    __flavor = ""
 ```
 
 > Python class with initialized attributes and methods
